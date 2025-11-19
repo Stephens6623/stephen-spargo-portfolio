@@ -63,7 +63,6 @@ src/
 - Responsive design
 - Project showcase with image gallery
 - Contact form with email integration
-- [Add other features as you build them]
 
 ---
 
